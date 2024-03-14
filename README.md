@@ -1,0 +1,1 @@
+Este repositorio cuenta con los 11 códigos de flujo de potencia pertenecientes al libro: FLUJO DE POTENCIA EN REDES DE DISTRIBUCIÓN: UN ENFOQUE NUMÉRICO, de los autores María Camila Herrera-Briñez, Óscar Danilo Montoya Giraldo y Luis Fernando Grisales-Noreña, publicado por la editorial ECOE.
